@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="AppKey">應用程式按鈕</string>
+    <string name="DigitalTriggerKey">扳機</string>
+    <string name="HomeKey">主選單按鈕</string>
+    <string name="TouchPad">觸控板</string>
+    <string name="TriggerKey">扳機</string>
+    <string name="VolumeKey">音量按鈕</string>
+    <string name="allow">允許</string>
+    <string name="demo">展示</string>
+    <string name="exit">離開</string>
+    <string name="lock_screen_text">螢幕與按鍵已被鎖定\n中斷 Link 頭戴式顯示器的連接以解鎖</string>
+    <string name="main_menu">主選單</string>
+    <string name="mytest">測試1</string>
+    <string name="notify_content">請取下頭盔並點擊是否同意權限要求</string>
+    <string name="notify_key">PermissionManagerAndroid</string>
+    <string name="notify_title">應用程式權限</string>
+    <string name="perm_req">請求權限</string>
+    <string name="reject">拒絕</string>
+    <string name="reload_scene">重載場景</string>
+    <string name="sixdof_ground">6DoF 地</string>
+    <string name="sixdof_head">6DoF 頭</string>
+    <string name="test">測試</string>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="notify_content">Please take HMD off and grant application permission</string>
+    <string name="notify_key">PermissionManagerAndroid</string>
+    <string name="notify_title">Application Permission</string>
+</resources>

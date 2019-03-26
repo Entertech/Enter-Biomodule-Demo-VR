@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="AppKey">Aplic</string>
+    <string name="DigitalTriggerKey">Disparador</string>
+    <string name="HomeKey">Inicio</string>
+    <string name="TouchPad">Panel táctil</string>
+    <string name="TriggerKey">Disparador</string>
+    <string name="VolumeKey">Volumen</string>
+</resources>

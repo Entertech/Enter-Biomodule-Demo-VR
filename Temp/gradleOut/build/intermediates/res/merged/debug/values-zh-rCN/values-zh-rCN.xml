@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="AppKey">应用程序按钮</string>
+    <string name="DigitalTriggerKey">扳机</string>
+    <string name="HomeKey">主屏幕按钮</string>
+    <string name="TouchPad">触控板</string>
+    <string name="TriggerKey">扳机</string>
+    <string name="VolumeKey">音量按钮</string>
+    <string name="allow">允许</string>
+    <string name="demo">展示</string>
+    <string name="exit">离开</string>
+    <string name="lock_screen_text">屏幕和按键已锁定\n断开 Link 头戴式设备连接即可解锁</string>
+    <string name="main_menu">主选单</string>
+    <string name="mytest">测试1</string>
+    <string name="notify_content">请取下头盔并点击是否同意权限要求</string>
+    <string name="notify_key">PermissionManagerAndroid</string>
+    <string name="notify_title">应用程式权限</string>
+    <string name="perm_req">请求权限</string>
+    <string name="reject">拒绝</string>
+    <string name="reload_scene">重载场景</string>
+    <string name="sixdof_ground">6DoF 地</string>
+    <string name="sixdof_head">6DoF 头</string>
+    <string name="test">测试</string>
+</resources>

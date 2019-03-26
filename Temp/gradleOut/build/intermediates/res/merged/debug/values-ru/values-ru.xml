@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="AppKey">Приложение</string>
+    <string name="DigitalTriggerKey">Курок</string>
+    <string name="HomeKey">Главная страница</string>
+    <string name="TouchPad">Сенсорная панель</string>
+    <string name="TriggerKey">Курок</string>
+    <string name="VolumeKey">Громкость</string>
+</resources>

@@ -1,0 +1,6 @@
+int string AppKey 0x7f020000
+int string DigitalTriggerKey 0x7f020001
+int string HomeKey 0x7f020002
+int string TouchPad 0x7f020003
+int string TriggerKey 0x7f020004
+int string VolumeKey 0x7f020005

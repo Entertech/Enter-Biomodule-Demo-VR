@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="AppKey">App</string>
+    <string name="DigitalTriggerKey">Activeren</string>
+    <string name="HomeKey">Begin</string>
+    <string name="TouchPad">Aanraakvlak</string>
+    <string name="TriggerKey">Activeren</string>
+    <string name="VolumeKey">Volume</string>
+</resources>

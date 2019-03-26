@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="AppKey">アプリ</string>
+    <string name="DigitalTriggerKey">トリガー</string>
+    <string name="HomeKey">ホーム</string>
+    <string name="TouchPad">タッチパッド</string>
+    <string name="TriggerKey">トリガー</string>
+    <string name="VolumeKey">ボリューム</string>
+</resources>

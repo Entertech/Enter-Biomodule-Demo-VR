@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="AppKey">Aplikace</string>
+    <string name="DigitalTriggerKey">Spoušť</string>
+    <string name="HomeKey">Domů</string>
+    <string name="TouchPad">Touchpad</string>
+    <string name="TriggerKey">Spoušť</string>
+    <string name="VolumeKey">Hlasitost</string>
+</resources>

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/Enter/Code/Unity/BiomoduleVRDemo/Temp/gradleOut/build/intermediates/res/merged/debug/anim/fade_in.xml",
+        "source": "/Users/Enter/Code/Unity/BiomoduleVRDemo/Temp/gradleOut/build/intermediates/exploded-aar/wavevr_client/res/anim/fade_in.xml"
+    },
+    {
+        "merged": "/Users/Enter/Code/Unity/BiomoduleVRDemo/Temp/gradleOut/build/intermediates/res/merged/debug/anim/fade_out.xml",
+        "source": "/Users/Enter/Code/Unity/BiomoduleVRDemo/Temp/gradleOut/build/intermediates/exploded-aar/wavevr_client/res/anim/fade_out.xml"
+    }
+]

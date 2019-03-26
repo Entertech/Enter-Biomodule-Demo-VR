@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="allow">許します</string>
+    <string name="demo">ショー</string>
+    <string name="exit">終了する</string>
+    <string name="main_menu">メインメニュー</string>
+    <string name="mytest">テスト1</string>
+    <string name="perm_req">許可要求</string>
+    <string name="reject">断ります</string>
+    <string name="reload_scene">シーンをリロードする</string>
+    <string name="sixdof_ground">6DoF 地面に</string>
+    <string name="sixdof_head">6DoF あたま</string>
+    <string name="test">テスト</string>
+</resources>

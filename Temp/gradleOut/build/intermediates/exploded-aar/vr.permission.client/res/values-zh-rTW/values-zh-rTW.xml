@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="notify_content">請取下頭盔並點擊是否同意權限要求</string>
+    <string name="notify_key">PermissionManagerAndroid</string>
+    <string name="notify_title">應用程式權限</string>
+</resources>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="AppKey">App</string>
+    <string name="DigitalTriggerKey">Trigger</string>
+    <string name="HomeKey">Home</string>
+    <string name="TouchPad">Touchpad</string>
+    <string name="TriggerKey">Trigger</string>
+    <string name="VolumeKey">Volume</string>
+    <string name="allow">allow</string>
+    <string name="demo">demo</string>
+    <string name="exit">Exit</string>
+    <string name="main_menu">Main Menu</string>
+    <string name="mytest">test1</string>
+    <string name="perm_req">Perm Request</string>
+    <string name="reject">reject</string>
+    <string name="reload_scene">Reload Scene</string>
+    <string name="sixdof_ground">6DoF Ground</string>
+    <string name="sixdof_head">6DoF Head</string>
+    <string name="test">test</string>
+</resources>

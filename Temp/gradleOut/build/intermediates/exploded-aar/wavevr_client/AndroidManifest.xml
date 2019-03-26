@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.htc.vr"
+    android:versionCode="2001008"
+    android:versionName="2.1.8" >
+
+    <uses-sdk
+        android:minSdkVersion="16"
+        android:targetSdkVersion="23" />
+    <!-- for snapdragon profiler tool -->
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="com.htc.vr.core.server.VRDataProvider" />
+
+    <uses-feature android:name="android.software.vr.mode" />
+
+    <application
+        android:theme="@style/Theme.WaveVR.Black"
+        tools:replace="android:theme" >
+    </application>
+
+</manifest>

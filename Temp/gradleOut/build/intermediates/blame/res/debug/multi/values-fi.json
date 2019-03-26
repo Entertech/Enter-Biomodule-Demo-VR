@@ -1,0 +1,121 @@
+[
+    {
+        "outputFile": "/Users/Enter/Code/Unity/BiomoduleVRDemo/Temp/gradleOut/build/intermediates/res/merged/debug/values-fi/values-fi.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 43,
+                    "endOffset": 94
+                },
+                "from": {
+                    "file": "/Users/Enter/Code/Unity/BiomoduleVRDemo/Temp/gradleOut/build/intermediates/exploded-aar/wavevr_resindicator/res/values-fi/values-fi.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 43,
+                        "endOffset": 94
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 99,
+                    "endColumn": 55,
+                    "endOffset": 150
+                },
+                "from": {
+                    "file": "/Users/Enter/Code/Unity/BiomoduleVRDemo/Temp/gradleOut/build/intermediates/exploded-aar/wavevr_resindicator/res/values-fi/values-fi.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 99,
+                        "endColumn": 55,
+                        "endOffset": 150
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 155,
+                    "endColumn": 46,
+                    "endOffset": 197
+                },
+                "from": {
+                    "file": "/Users/Enter/Code/Unity/BiomoduleVRDemo/Temp/gradleOut/build/intermediates/exploded-aar/wavevr_resindicator/res/values-fi/values-fi.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 155,
+                        "endColumn": 46,
+                        "endOffset": 197
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 202,
+                    "endColumn": 49,
+                    "endOffset": 247
+                },
+                "from": {
+                    "file": "/Users/Enter/Code/Unity/BiomoduleVRDemo/Temp/gradleOut/build/intermediates/exploded-aar/wavevr_resindicator/res/values-fi/values-fi.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 202,
+                        "endColumn": 49,
+                        "endOffset": 247
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 252,
+                    "endColumn": 48,
+                    "endOffset": 296
+                },
+                "from": {
+                    "file": "/Users/Enter/Code/Unity/BiomoduleVRDemo/Temp/gradleOut/build/intermediates/exploded-aar/wavevr_resindicator/res/values-fi/values-fi.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 252,
+                        "endColumn": 48,
+                        "endOffset": 296
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 301,
+                    "endColumn": 53,
+                    "endOffset": 350
+                },
+                "from": {
+                    "file": "/Users/Enter/Code/Unity/BiomoduleVRDemo/Temp/gradleOut/build/intermediates/exploded-aar/wavevr_resindicator/res/values-fi/values-fi.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 301,
+                        "endColumn": 53,
+                        "endOffset": 350
+                    }
+                }
+            }
+        ]
+    }
+]

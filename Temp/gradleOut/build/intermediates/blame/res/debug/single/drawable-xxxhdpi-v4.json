@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/Enter/Code/Unity/BiomoduleVRDemo/Temp/gradleOut/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/runtime_loading.webp",
+        "source": "/Users/Enter/Code/Unity/BiomoduleVRDemo/Temp/gradleOut/build/intermediates/exploded-aar/wavevr_client/res/drawable-xxxhdpi-v4/runtime_loading.webp"
+    },
+    {
+        "merged": "/Users/Enter/Code/Unity/BiomoduleVRDemo/Temp/gradleOut/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/link_lock_screen_bg.webp",
+        "source": "/Users/Enter/Code/Unity/BiomoduleVRDemo/Temp/gradleOut/build/intermediates/exploded-aar/wavevr_client/res/drawable-xxxhdpi-v4/link_lock_screen_bg.webp"
+    }
+]

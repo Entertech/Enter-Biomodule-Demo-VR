@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="AppKey">Sovellus</string>
+    <string name="DigitalTriggerKey">Liipaisin</string>
+    <string name="HomeKey">Alkunäyttö</string>
+    <string name="TouchPad">Kosketuslevy</string>
+    <string name="TriggerKey">Liipaisin</string>
+    <string name="VolumeKey">Äänenvoimakkuus</string>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="allow">允许</string>
+    <string name="demo">展示</string>
+    <string name="exit">离开</string>
+    <string name="main_menu">主选单</string>
+    <string name="mytest">测试1</string>
+    <string name="perm_req">请求权限</string>
+    <string name="reject">拒绝</string>
+    <string name="reload_scene">重载场景</string>
+    <string name="sixdof_ground">6DoF 地</string>
+    <string name="sixdof_head">6DoF 头</string>
+    <string name="test">测试</string>
+</resources>

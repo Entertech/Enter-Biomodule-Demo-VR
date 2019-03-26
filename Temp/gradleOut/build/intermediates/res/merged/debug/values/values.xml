@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="AppKey">App</string>
+    <string name="DigitalTriggerKey">Trigger</string>
+    <string name="HomeKey">Home</string>
+    <string name="TouchPad">Touchpad</string>
+    <string name="TriggerKey">Trigger</string>
+    <string name="VolumeKey">Volume</string>
+    <string name="allow">allow</string>
+    <string name="app_name">BiomoduleVRDemo</string>
+    <string name="demo">demo</string>
+    <string name="exit">Exit</string>
+    <string name="lock_screen_text">Screen and key are locked.\nDisconnect Link HMD to unlock.</string>
+    <string name="main_menu">Main Menu</string>
+    <string name="mytest">test1</string>
+    <string name="notify_content">Please take HMD off and grant application permission</string>
+    <string name="notify_key">PermissionManagerAndroid</string>
+    <string name="notify_title">Application Permission</string>
+    <string name="perm_req">Perm Request</string>
+    <string name="reject">reject</string>
+    <string name="reload_scene">Reload Scene</string>
+    <string name="sixdof_ground">6DoF Ground</string>
+    <string name="sixdof_head">6DoF Head</string>
+    <string name="test">test</string>
+    <string name="wvr_vr_mode_component" translatable="false">com.htc.vr.core.server/com.htc.vr.core.server.VRListenerService</string>
+    <style name="Animation.Activity.fade_in_out" parent="@android:style/Animation.Activity">
+    <item name="android:activityOpenEnterAnimation">@anim/fade_in</item>
+    <item name="android:activityOpenExitAnimation">@anim/fade_out</item>
+    <item name="android:activityCloseEnterAnimation">@anim/fade_in</item>
+    <item name="android:activityCloseExitAnimation">@anim/fade_out</item>
+
+    <item name="android:taskOpenEnterAnimation">@anim/fade_in</item>
+    <item name="android:taskOpenExitAnimation">@anim/fade_out</item>
+    <item name="android:taskCloseEnterAnimation">@anim/fade_in</item>
+    <item name="android:taskCloseExitAnimation">@anim/fade_out</item>
+
+    <item name="android:taskToFrontEnterAnimation">@anim/fade_in</item>
+    <item name="android:taskToFrontExitAnimation">@anim/fade_out</item>
+    <item name="android:taskToBackEnterAnimation">@anim/fade_in</item>
+    <item name="android:taskToBackExitAnimation">@anim/fade_out</item>
+</style>
+    <style name="Theme.WaveVR.Base" parent="android:Theme.NoTitleBar.Fullscreen">
+    <item name="android:windowIsTranslucent">false</item>
+    <item name="android:windowActivityTransitions">false</item>
+    <item name="android:windowActionBar">false</item>
+    <item name="android:windowDisablePreview">true</item>
+    <item name="android:windowContentOverlay">@null</item>
+    <item name="android:windowAnimationStyle">@style/Animation.Activity.fade_in_out</item>
+</style>
+    <style name="Theme.WaveVR.Black" parent="Theme.WaveVR.Base">
+    <item name="android:windowBackground">@android:color/black</item>
+</style>
+    <style name="Theme.WaveVR.Loading" parent="Theme.WaveVR.Base">
+    <item name="android:windowBackground">@drawable/runtime_loading</item>
+</style>
+    <style name="UnityThemeSelector" parent="android:Theme.Light.NoTitleBar.Fullscreen">
+</style>
+</resources>

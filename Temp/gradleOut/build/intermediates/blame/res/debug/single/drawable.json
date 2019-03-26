@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/Enter/Code/Unity/BiomoduleVRDemo/Temp/gradleOut/build/intermediates/res/merged/debug/drawable/circular_progress_bar.xml",
+        "source": "/Users/Enter/Code/Unity/BiomoduleVRDemo/Temp/gradleOut/build/intermediates/exploded-aar/wavevr_client/res/drawable/circular_progress_bar.xml"
+    },
+    {
+        "merged": "/Users/Enter/Code/Unity/BiomoduleVRDemo/Temp/gradleOut/build/intermediates/res/merged/debug/drawable/runtime_loading.webp",
+        "source": "/Users/Enter/Code/Unity/BiomoduleVRDemo/Temp/gradleOut/build/intermediates/exploded-aar/wavevr_client/res/drawable/runtime_loading.webp"
+    },
+    {
+        "merged": "/Users/Enter/Code/Unity/BiomoduleVRDemo/Temp/gradleOut/build/intermediates/res/merged/debug/drawable/link_lock_screen_bg.webp",
+        "source": "/Users/Enter/Code/Unity/BiomoduleVRDemo/Temp/gradleOut/build/intermediates/exploded-aar/wavevr_client/res/drawable/link_lock_screen_bg.webp"
+    },
+    {
+        "merged": "/Users/Enter/Code/Unity/BiomoduleVRDemo/Temp/gradleOut/build/intermediates/res/merged/debug/drawable/font.png",
+        "source": "/Users/Enter/Code/Unity/BiomoduleVRDemo/Temp/gradleOut/build/intermediates/exploded-aar/wavevr_client/res/drawable/font.png"
+    },
+    {
+        "merged": "/Users/Enter/Code/Unity/BiomoduleVRDemo/Temp/gradleOut/build/intermediates/res/merged/debug/drawable/circle_shape.xml",
+        "source": "/Users/Enter/Code/Unity/BiomoduleVRDemo/Temp/gradleOut/build/intermediates/exploded-aar/wavevr_client/res/drawable/circle_shape.xml"
+    }
+]

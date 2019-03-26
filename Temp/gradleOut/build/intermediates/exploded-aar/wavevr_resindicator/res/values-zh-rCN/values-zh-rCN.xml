@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="AppKey">应用程序按钮</string>
+    <string name="DigitalTriggerKey">扳机</string>
+    <string name="HomeKey">主屏幕按钮</string>
+    <string name="TouchPad">触控板</string>
+    <string name="TriggerKey">扳机</string>
+    <string name="VolumeKey">音量按钮</string>
+</resources>

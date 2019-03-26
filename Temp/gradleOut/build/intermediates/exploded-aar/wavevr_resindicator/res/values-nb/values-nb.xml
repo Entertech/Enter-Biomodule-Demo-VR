@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="AppKey">Applikasjon</string>
+    <string name="DigitalTriggerKey">Utløser</string>
+    <string name="HomeKey">Startside</string>
+    <string name="TouchPad">Pekeplate</string>
+    <string name="TriggerKey">Utløser</string>
+    <string name="VolumeKey">Volum</string>
+</resources>

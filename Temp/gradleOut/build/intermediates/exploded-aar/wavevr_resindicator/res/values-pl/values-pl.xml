@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="AppKey">Aplikacja</string>
+    <string name="DigitalTriggerKey">Spust</string>
+    <string name="HomeKey">Ekran główny</string>
+    <string name="TouchPad">Touchpad</string>
+    <string name="TriggerKey">Spust</string>
+    <string name="VolumeKey">Głośność</string>
+</resources>

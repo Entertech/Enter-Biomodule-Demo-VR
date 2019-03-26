@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="AppKey">Aplicación</string>
+    <string name="DigitalTriggerKey">Gatillo</string>
+    <string name="HomeKey">Página principal</string>
+    <string name="TouchPad">Panel táctil</string>
+    <string name="TriggerKey">Gatillo</string>
+    <string name="VolumeKey">Volumen</string>
+</resources>

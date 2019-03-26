@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BiomoduleVRDemo", "Assembly-CSharp-firstpass.csproj", "{69D1BE33-B7A8-6EB6-0CBC-29F51789EA11}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BiomoduleVRDemo", "Assembly-CSharp.csproj", "{3740ABD2-7677-9B01-0898-8DA847E4D849}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BiomoduleVRDemo", "Assembly-CSharp-Editor.csproj", "{A8D36BAC-AE77-B882-179F-89AD4439B38D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{69D1BE33-B7A8-6EB6-0CBC-29F51789EA11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69D1BE33-B7A8-6EB6-0CBC-29F51789EA11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69D1BE33-B7A8-6EB6-0CBC-29F51789EA11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69D1BE33-B7A8-6EB6-0CBC-29F51789EA11}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3740ABD2-7677-9B01-0898-8DA847E4D849}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3740ABD2-7677-9B01-0898-8DA847E4D849}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3740ABD2-7677-9B01-0898-8DA847E4D849}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3740ABD2-7677-9B01-0898-8DA847E4D849}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8D36BAC-AE77-B882-179F-89AD4439B38D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8D36BAC-AE77-B882-179F-89AD4439B38D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8D36BAC-AE77-B882-179F-89AD4439B38D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8D36BAC-AE77-B882-179F-89AD4439B38D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Enter/Code/Unity/BiomoduleVRDemo/Temp/gradleOut/build/intermediates/exploded-aar/vr.ime.client/jars/classes.jar"
+        jumboMode="false"
+        revision="28.0.0"
+        sha1="9c78073c1782410c4c6f4d42fe2e037a84ea5ba8">
+        <dex dex="/Users/Enter/Code/Unity/BiomoduleVRDemo/Temp/gradleOut/build/intermediates/pre-dexed/debug/intermediates-exploded-aar-vr.ime.client_d54d5017bc68dc7a89ecc5d4298cc69b00d2a2cb.jar" />
+    </item>
+    <item
+        jar="/Users/Enter/Code/Unity/BiomoduleVRDemo/Temp/gradleOut/build/intermediates/exploded-aar/wavevr_unity_plugin/jars/classes.jar"
+        jumboMode="false"
+        revision="28.0.0"
+        sha1="b4020072deee1e2f470eff0762ca419ea80e0e5e">
+        <dex dex="/Users/Enter/Code/Unity/BiomoduleVRDemo/Temp/gradleOut/build/intermediates/pre-dexed/debug/intermediates-exploded-aar-wavevr_unity_plugin_5eaf4949463c379435889d77f1086e5083c16cad.jar" />
+    </item>
+    <item
+        jar="/Users/Enter/Code/Unity/BiomoduleVRDemo/Temp/gradleOut/build/intermediates/exploded-aar/wavevr_resdemo/jars/classes.jar"
+        jumboMode="false"
+        revision="28.0.0"
+        sha1="d330c9382e7521a2ed9309b0eae874c17eed927e">
+        <dex dex="/Users/Enter/Code/Unity/BiomoduleVRDemo/Temp/gradleOut/build/intermediates/pre-dexed/debug/intermediates-exploded-aar-wavevr_resdemo_409d57833ff610822ebd83a6a3ba855906c5c008.jar" />
+    </item>
+    <item
+        jar="/Users/Enter/Code/Unity/BiomoduleVRDemo/Temp/gradleOut/build/intermediates/exploded-aar/vr.permission.client/jars/classes.jar"
+        jumboMode="false"
+        revision="28.0.0"
+        sha1="84e63cb587838eb1656c6f323fd21743c2d22376">
+        <dex dex="/Users/Enter/Code/Unity/BiomoduleVRDemo/Temp/gradleOut/build/intermediates/pre-dexed/debug/intermediates-exploded-aar-vr.permission.client_27d686cdb5db8f5706fb713194b10672713ffccb.jar" />
+    </item>
+    <item
+        jar="/Users/Enter/Code/Unity/BiomoduleVRDemo/Temp/gradleOut/libs/unity-classes.jar"
+        jumboMode="false"
+        revision="28.0.0"
+        sha1="43f1504d824e6ede70640a186d77196f6bcb64fd">
+        <dex dex="/Users/Enter/Code/Unity/BiomoduleVRDemo/Temp/gradleOut/build/intermediates/pre-dexed/debug/unity-classes_99527e467912ed4428cbc9ee9f5f3584e07213c0.jar" />
+    </item>
+    <item
+        jar="/Users/Enter/Code/Unity/BiomoduleVRDemo/Temp/gradleOut/build/intermediates/exploded-aar/wavevr_pidemo/jars/classes.jar"
+        jumboMode="false"
+        revision="28.0.0"
+        sha1="299db829e391f503105cc1594fb6ad09105fe5f6">
+        <dex dex="/Users/Enter/Code/Unity/BiomoduleVRDemo/Temp/gradleOut/build/intermediates/pre-dexed/debug/intermediates-exploded-aar-wavevr_pidemo_672cbeb82e8d5c476162d8604b31f0f83d73736c.jar" />
+    </item>
+    <item
+        jar="/Users/Enter/Code/Unity/BiomoduleVRDemo/Temp/gradleOut/build/intermediates/exploded-aar/wavevr_resindicator/jars/classes.jar"
+        jumboMode="false"
+        revision="28.0.0"
+        sha1="1f01f6a843dc70ce0032e85ca517e131783107bf">
+        <dex dex="/Users/Enter/Code/Unity/BiomoduleVRDemo/Temp/gradleOut/build/intermediates/pre-dexed/debug/intermediates-exploded-aar-wavevr_resindicator_25bfa039c6be0dae54024ebd8be82601ce154fea.jar" />
+    </item>
+    <item
+        jar="/Users/Enter/Code/Unity/BiomoduleVRDemo/Temp/gradleOut/build/intermediates/exploded-aar/wavevr_client/jars/classes.jar"
+        jumboMode="false"
+        revision="28.0.0"
+        sha1="805b0fcc5c10ec306cb0012bf63af995c5d87f1a">
+        <dex dex="/Users/Enter/Code/Unity/BiomoduleVRDemo/Temp/gradleOut/build/intermediates/pre-dexed/debug/intermediates-exploded-aar-wavevr_client_829cd8460e736a5813a33fa2c1f083f5060346aa.jar" />
+    </item>
+
+</items>
