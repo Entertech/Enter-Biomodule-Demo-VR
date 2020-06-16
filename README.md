@@ -6,8 +6,9 @@
 
 ```groovy
 implementation files('libs/unity-classes.jar')
-implementation "com.polidea.rxandroidble2:rxandroidble:1.8.0"
-implementation 'com.orhanobut:logger:1.15'
-implementation 'cn.entertech:flowtimeble:1.0.3'
+implementation 'cn.entertech:biomoduleble:1.3.6'
+//implementation "com.polidea.rxandroidble2:rxandroidble:1.8.0"
+//implementation 'com.orhanobut:logger:1.15'
+//implementation 'cn.entertech:flowtimeble:1.0.3'
 ```
 
